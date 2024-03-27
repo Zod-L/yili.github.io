@@ -46,16 +46,30 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Programming Languages
     items:
       - name: Python
+      - name: C
+      - name: C++
       - name: SQL
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+      - name: Verilog
+  - name: Frameworks
     items:
-      - name: Hiking
-      - name: Swimming
+      - name: PyTorch
+      - name: TensorFlow
+      - name: OpenCV
+      - name: Scikit-learn
+  - name: Coursework
+    items:
+      - name: Object Oriented Programming
+      - name: Data Structure
+      - name: Operating System
+      - name: Computer Architecture
+      - name: Computer Graphics
+      - name: Computer Vision
+      - name: Machine Learning
+      - name: Distributed and Parallel Computing
+      - name: Optimization
 
 
 
