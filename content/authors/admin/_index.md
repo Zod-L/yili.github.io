@@ -49,7 +49,6 @@ skills:
   - name: Technical
     items:
       - name: Python
-      - name: Data Science
       - name: SQL
   - name: Hobbies
     color: '#eeac02'
