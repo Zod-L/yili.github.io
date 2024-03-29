@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content/publication/cvprw/Cross-Temporal-Spectrogram-Autoencoder-(CTSAE)-Unsupervised.pdf'
+url_pdf: 'content/publication/cvprw/paper.pdf'
 url_code: ''
 
 
