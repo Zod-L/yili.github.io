@@ -66,7 +66,7 @@ sections:
           company: Image & Video Processing Lab(IVPL), at Northwestern University
           company_url: 'https://sites.northwestern.edu/ivpl/'
           location: Evanston, US
-          date_start: '2023-11'
+          date_start: '2023-11-01'
           date_end: ''
           description: Currently responsible for the Unsupervised LIGO Gravitational Wave Glitches Clustering project
 
