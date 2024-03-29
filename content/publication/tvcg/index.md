@@ -26,22 +26,28 @@ abstract: While significant progresses has been made in stylizing face images, s
 
 
 
-tags:
-- Source Themes
+# # Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+tags: []
+
+# Display this page in the Featured widget?
 featured: false
 
+# Custom links (uncomment lines below)
 # links:
-# - name: ""
-#   url: ""
-url_pdf: ''
-url_code: ''
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'content/publication/cvprw/paper.pdf'
+# url_code: ''
 
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-#   focal_point: ""
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#   focal_point: ''
 #   preview_only: false
 
 # Associated Projects (optional).
