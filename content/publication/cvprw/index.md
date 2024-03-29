@@ -5,7 +5,7 @@ title: 'Cross-Temporal Spectrogram Autoencoder (CTSAE): Unsupervised Dimensional
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Yi Li
+  - admin
   - Yunan Wu
   - Aggelos K. Katsaggelos
 
