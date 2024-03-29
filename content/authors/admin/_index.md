@@ -46,32 +46,50 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Programming Languages
+  - name: Programming Languages and Frameworks
     items:
       - name: Python
-      - name: C
+        percent: 100
       - name: C++
+        percent: 80
       - name: SQL
+        percent: 60
       - name: Verilog
-  - name: Frameworks
-    items:
+        percent: 20
       - name: PyTorch
+        percent: 100
       - name: TensorFlow
+        percent: 60
       - name: OpenCV
+        percent: 80
       - name: Scikit-learn
+        percent: 80
   - name: Coursework
+    color: '#eeac02'
+    color_border: '#f0bf23'
     items:
       - name: Object Oriented Programming
+        percent: 100
       - name: Data Structure
+        percent: 100
       - name: Operating System
+        percent: 60
       - name: Computer Architecture
+        percent: 60
       - name: Distributed and Parallel Computing
+        percent: 80
       - name: Optimization
+        percent: 80
       - name: Computer Graphics
+        percent: 80
       - name: Computer Vision
+        percent: 100
       - name: Machine Learning
+        percent: 100
       - name: Deep Learning
+        percent: 100
       - name: Reinforcement Learning
+        percent: 100
 
 
 
@@ -82,7 +100,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'yili2023.1@u.northwestern.edu'
+    link: 'mailto:yili2023.1@u.northwestern.edu'
   - icon: github
     icon_pack: fab
     link: https://github.com/Zod-L/
