@@ -45,7 +45,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'content/publication/cvprw/paper.pdf'
-url_code: ''
+# url_code: ''
 
 
 # Featured image
