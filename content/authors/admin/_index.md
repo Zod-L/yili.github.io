@@ -119,5 +119,5 @@ social:
 highlight_name: true
 ---
 
-Yi Li is currently pursing his master of science degree at Northwestern University 
+I am currently pursing my Master of Science degree in Computer Science at Northwestern University. My research interests lie at the intersection of computer vision and machine learning, with a focus on 3D computer vision and weekly supervised algorithms. I am currently working at the Image & Video Processing Lab (IVPL) under the supervision of Prof. Aggelos K. Katsaggelos, where I am exploring novel approach for unsupervised clustering of gravitational wave glitches.
 {style="text-align: justify;"}
