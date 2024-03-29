@@ -71,20 +71,20 @@ sections:
           description: Currently responsible for the Unsupervised LIGO Gravitational Wave Glitches Clustering project
 
 
-  #       - title: Undergraduate Researcher
-  #         company: Generation and Analysis of Pixels, Points and Polygons(GAP) Lab, at The Chinese University of HongKong, Shenzhen
-  #         company_url: 'https://gaplab.cuhk.edu.cn/'
-  #         location: Shenzhen, China
-  #         date_start: '2022-01'
-  #         date_end: '2023-09'
-  #         description: |2-
-  #             Participate in two projects:
+        - title: Undergraduate Researcher
+          company: Generation and Analysis of Pixels, Points and Polygons(GAP) Lab, at The Chinese University of HongKong, Shenzhen
+          company_url: 'https://gaplab.cuhk.edu.cn/'
+          location: Shenzhen, China
+          date_start: '2022-01-01'
+          date_end: '2023-09-01'
+          description: |2-
+              Participate in two projects:
 
-  #             * 3D Cartoon Face Reconstruction
-  #             * Multi-style 3D Face Reconstruction
+              * 3D Cartoon Face Reconstruction
+              * Multi-style 3D Face Reconstruction
 
-  #   design:
-  #     columns: '2'
+    design:
+      columns: '2'
 
 
 
