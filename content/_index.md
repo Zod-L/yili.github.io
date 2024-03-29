@@ -50,25 +50,25 @@ sections:
       username: admin
     design:
       columns: '1'
-  # - block: experience
-  #   content:
-  #     title: Experience
-  #     # Date format for experience
-  #     #   Refer to https://docs.hugoblox.com/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Experiences.
-  #     #   Add/remove as many `experience` items below as you like.
-  #     #   Required fields are `title`, `company`, and `date_start`.
-  #     #   Leave `date_end` empty if it's your current employer.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - title: Graduate Researcher
-  #         company: Image & Video Processing Lab(IVPL), at Northwestern University
-  #         company_url: 'https://sites.northwestern.edu/ivpl/'
-  #         location: Evanston, US
-  #         date_start: '2023-11'
-  #         date_end: ''
-  #         description: Currently responsible for the Unsupervised LIGO Gravitational Wave Glitches Clustering project
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Graduate Researcher
+          company: Image & Video Processing Lab(IVPL), at Northwestern University
+          company_url: 'https://sites.northwestern.edu/ivpl/'
+          location: Evanston, US
+          date_start: '2023-11'
+          date_end: ''
+          description: Currently responsible for the Unsupervised LIGO Gravitational Wave Glitches Clustering project
 
 
   #       - title: Undergraduate Researcher
@@ -195,17 +195,17 @@ sections:
 
 
 
-  - block: collection
-    id: featured
-    content:
-      title: Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: card
 
 
 
