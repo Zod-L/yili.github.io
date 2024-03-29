@@ -7,22 +7,22 @@ authors:
 - Xianggang Yu
 - Yushuang Wu
 - Xiaoguang Han
-date: '2024-03-08T00:00:00Z'
-doi: ''
+date: "2024-03-29T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-03-29T00:00:00Z'
+publishDate: "2023-03-29T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted to *IEEE/CVF Computer Society Conference on Computer Vision and Pattern Recognition Workshops*
-publication_short: Submitted to *CVPRW*
+publication: "Submitted to *IEEE Transactions on Visualization and Computer Graphics*"
+publication_short: "Submitted to *TVCG*"
 
-abstract: The advancement of The Laser Interferometer Gravitational-Wave Observatory (LIGO) has significantly enhanced the feasibility and reliability of gravitational wave detection. However, LIGO's high sensitivity makes it susceptible to transient noises known as glitches, which necessitate effective differentiation from real gravitational wave signals. Traditional approaches predominantly employ fully supervised or semi-supervised algorithms for the task of glitch classification and clustering. In the future task of identifying and classifying glitches across main and auxiliary channels, it is impractical to build a dataset with manually labeled ground-truth. In response to this challenge, we introduce the Cross-Temporal Spectrogram Autoencoder (CTSAE), a pioneering unsupervised method for the dimensionality reduction and clustering of gravitational wave glitches. CTSAE integrates a novel four-branch autoencoder with a hybrid of Convolutional Neural Networks (CNN) and Vision Transformers (ViT). To further extract features across multi-branches, we introduce a novel multi-branch fusion method using the CLS (Class) token. Our model, trained and evaluated on the GravitySpy 1.0 dataset, demonstrates superior performance in clustering tasks when compared to state-of-the-art semi-supervised learning methods. To the best of our knowledge, CTSAE represents the first unsupervised approach tailored specifically for clustering LIGO data, marking a significant step forward in the field of gravitational wave research.
+abstract: While significant progresses has been made in stylizing face images, such as Toonme, modelling stylized 3D faces remains a labor-intensive task and existing popular solutions strongly rely on abundant 3D supervision. Our goal is to efficiently learn a reconstruction network with only a little supervision, which generates textured face meshes that accurately captures the features of target stylized face images, for example Toonme. To achieve this, we propose a reconstruction framework, Toonme3D , to incorporate the rich reconstruction knowledge learned in the real face domain and transfer them into the Toonme style domain for both the face shape and texture generation. The shape generator is based on a well-designed 3D morphable model pre-trained on the real face domain. A novel cartoon shape prior is fused with the real shape one to stylize the shape outputs, which is distilled from a 3D Toonme dataset with uniform topology via Principal Component Analysis. For the texture generation, a pre-trained StyleGAN, which can generate delicate stylized albedos for real face meshes, is fine-tuned on the 2D Toonme style images to provide stylized texture information. We show that the shape and texture prior together enable faithful reconstruction of textured face meshes from target images. In addition, our method also shows great generalizablity when applied in the reconstruction of caricature-style faces.
 
 
 
