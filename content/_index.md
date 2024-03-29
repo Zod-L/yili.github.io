@@ -192,7 +192,10 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  # - block: collection
+
+
+
+  - block: collection
     id: featured
     content:
       title: Publications
@@ -221,10 +224,6 @@ sections:
   #   design:
   #     columns: '2'
   #     view: citation
-
-
-
-
   # - block: collection
   #   id: talks
   #   content:
