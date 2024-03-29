@@ -37,7 +37,7 @@ abstract: The advancement of The Laser Interferometer Gravitational-Wave Observa
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
