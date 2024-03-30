@@ -6,16 +6,16 @@
 main:
   - name: Home
     url: '#about'
-    weight: 10
+    weight: 100
   - name: Expereinces
     url: '#experience'
     weitht: 10
   - name: Publications
     url: '#publication'
-    weight: 10
+    weight: 20
   - name: CV
     url: uploads/resume.pdf
-    weight: 10
+    weight: 30
 #    weight: 70
   # - name: Posts
   #   url: '#posts'
