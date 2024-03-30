@@ -51,6 +51,7 @@ sections:
     design:
       columns: '1'
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -207,6 +208,7 @@ sections:
 
   
   - block: collection
+    id: publication
     content:
       title: Publications
       text: |-
