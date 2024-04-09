@@ -17,7 +17,7 @@ main:
     url: '#publication'
     weight: 40
   - name: Research Statement
-    url: uploads/rs.pdf'
+    url: uploads/rs.pdf
     weight: 60
 
 
