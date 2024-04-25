@@ -44,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content/publication/cvprw/paper.pdf'
+url_pdf: 'https://arxiv.org/abs/2404.15552'
 # url_code: ''
 
 
